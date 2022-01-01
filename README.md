@@ -1,2 +1,3 @@
 This project is meant to create some sort of loading effects so that users think that the page loads faster.
 More details about the project to be added soon.....
+feel free to pull and make your own
