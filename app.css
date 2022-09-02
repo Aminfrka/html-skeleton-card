@@ -95,7 +95,7 @@ img {
   border-radius: 10px;
   font-size: 20px;
   text-decoration: none;
-  color: whitesmoke;
+  color: rgb(219, 121, 121);
 }
 
 .active .profile-img::after {
