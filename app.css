@@ -7,6 +7,7 @@
 body {
   display: flex;
   justify-content: center;
+  font-famiily: sans-serif;
   align-items: center;
   height: 100vh;
 }
